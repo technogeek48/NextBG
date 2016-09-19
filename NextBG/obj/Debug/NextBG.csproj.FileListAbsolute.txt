@@ -1,0 +1,10 @@
+\\sv-don\etudiants$\m.sakellaropoulos\documents\visual studio 2013\Projects\NextBG\NextBG\bin\Debug\NextBG.exe.config
+\\sv-don\etudiants$\m.sakellaropoulos\documents\visual studio 2013\Projects\NextBG\NextBG\bin\Debug\NextBG.exe
+\\sv-don\etudiants$\m.sakellaropoulos\documents\visual studio 2013\Projects\NextBG\NextBG\bin\Debug\NextBG.pdb
+\\sv-don\etudiants$\m.sakellaropoulos\documents\visual studio 2013\Projects\NextBG\NextBG\obj\Debug\NextBG.Form1.resources
+\\sv-don\etudiants$\m.sakellaropoulos\documents\visual studio 2013\Projects\NextBG\NextBG\obj\Debug\NextBG.Properties.Resources.resources
+\\sv-don\etudiants$\m.sakellaropoulos\documents\visual studio 2013\Projects\NextBG\NextBG\obj\Debug\NextBG.csproj.GenerateResource.Cache
+\\sv-don\etudiants$\m.sakellaropoulos\documents\visual studio 2013\Projects\NextBG\NextBG\obj\Debug\NextBG.exe
+\\sv-don\etudiants$\m.sakellaropoulos\documents\visual studio 2013\Projects\NextBG\NextBG\obj\Debug\NextBG.pdb
+\\sv-don\etudiants$\m.sakellaropoulos\documents\visual studio 2013\Projects\NextBG\NextBG\obj\Debug\Interop.Shell32.dll
+\\sv-don\etudiants$\m.sakellaropoulos\documents\visual studio 2013\Projects\NextBG\NextBG\obj\Debug\NextBG.csproj.ResolveComReference.cache
